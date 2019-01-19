@@ -7,12 +7,7 @@ class db{
 	private $dbuser = 'root';
 	private $dbpass = '';
 	private $dbname = 'slimapp';
-
-	#private $dbhost = 'myballercity.c3spvlbd7sgm.us-east-2.rds.amazonaws.com';
-	#private $dbuser = 'Adm1n_Ball3r';
-	#private $dbpass = 'Vt&423CG-57ZxsLNSdHz}HX';
-	#private $dbname = 'Adm1n_Ball3r';
-
+ 
 
 	//connect
 	public function connect(){
